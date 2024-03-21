@@ -1,8 +1,8 @@
 {
-    "prefix": ".",
-    "token": null,
-    "clientID": "",
-    "guildID": "",
+    "prefix": "!",
+    "token": "MTIxMzQ1MTMxNDc4MDk2Njk3OA.GuqrWr.ZBUGcj5oh-UW70LFqyIRJCRTL0wKrv9L98MBhQ",
+    "clientID": "1213451314780966978",
+    "guildID": "1181581548496101456",
     "youtubeCookie": "",
     "spotify_api": {
         "enabled": false,
